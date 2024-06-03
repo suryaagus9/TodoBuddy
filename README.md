@@ -1,7 +1,7 @@
-```markdown
 # TodoBuddy
 
-TodoBuddy adalah aplikasi todo list yang dirancang untuk membantu pengguna mengelola berbagai tugas dan kegiatan dalam kehidupan sehari-hari. Aplikasi ini sangat fleksibel dan dapat digunakan untuk berbagai keperluan, mulai dari mengelola tugas sekolah, kegiatan kuliah, hingga urusan sehari-hari yang bersifat umum.
+TodoBuddy adalah aplikasi todo list yang dirancang untuk membantu pengguna mengelola berbagai tugas dan kegiatan dalam kehidupan sehari-hari. 
+Aplikasi ini sangat fleksibel dan dapat digunakan untuk berbagai keperluan, mulai dari mengelola tugas sekolah, kegiatan kuliah, hingga urusan sehari-hari yang bersifat umum.
 
 ## Fitur Utama
 
@@ -81,7 +81,3 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan a
 
 Proyek ini dilisensikan di bawah lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
 
-```
-
-Terima kasih telah menggunakan TodoBuddy! Kami berharap aplikasi ini dapat membantu Anda dalam mengelola tugas dan kegiatan sehari-hari dengan lebih efektif dan efisien.
-```
